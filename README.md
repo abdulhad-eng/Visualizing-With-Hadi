@@ -11,25 +11,28 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm **Abdul Hadi Qureshi**, a graduate student at **Carnegie Mellon University**, pursuing a Master of Science in Public Policy & Management – Data Analytics (MSPPM-DA).  
+I’m passionate about using **data visualization** to turn complex data into meaningful, actionable insights that inform better policy and business decisions.  
+
+Over the past few years, I’ve worked across agriculture, technology, and development sectors, and now I’m building skills that combine analytical rigor with creative storytelling.  
+This portfolio is where I’ll document my progress through the **Telling Stories with Data** course — experimenting with design, critique, and communication through visuals.  
+
+*(Pronouns: he/him)*
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+In this course, I hope to strengthen my ability to:
+- Design clear, persuasive data visuals that communicate evidence effectively.  
+- Apply color, typography, and layout choices intentionally to guide audience focus.  
+- Critically evaluate visualizations using frameworks like **Good Charts** and **Storytelling with Data**.  
+- Build a professional portfolio that reflects both analytical precision and creative storytelling.  
 
-1. List item #1
-2. List item #2
-3. List item #3
+After graduation, I aim to work at the intersection of **data analytics and public decision-making**, helping organizations translate data into strategy, policy, and impact.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+Here’s where I’ll collect and share my work from this course:
+### Working with Tableau – Visualizing Government Debt  
+*Building interactive visualizations to explore government debt data.*
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -37,8 +40,24 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
+## Final project 
+### Final Project – Data Storytelling  
+The final project will showcase everything learned throughout the course — from visual design and storytelling to audience awareness and technical presentation.  
+
+**Core Goal:**  
+To tell a meaningful story using data visualization methods that communicate clearly and effectively to the intended audience.
+
+**Project Structure:**  
+- **Part I: Project Proposal**  
+  Define the topic, audience, and purpose. Include data sources, the visualization method you plan to use, and an initial outline of the story.  
+
+- **Part II: Sketches, Wireframes, Storyboards**  
+  Develop early visual concepts and collect user feedback to refine your narrative and layout before final production.  
+
+- **Part III: Final Deliverable & Presentation**  
+  Create the final, publicly accessible visualization (website, interactive dashboard, or presentation). Deliver a concise lightning talk summarizing your process and insights.
+
+
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
