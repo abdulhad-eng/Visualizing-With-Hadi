@@ -34,7 +34,7 @@ Here’s where I’ll collect and share my work from this course:
 ### Working with Tableau – Visualizing Government Debt  
 *Building interactive visualizations to explore government debt data.*
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+### Assignment: [Visualizing Government Debt](visualizing-government-debt.html)
  
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
