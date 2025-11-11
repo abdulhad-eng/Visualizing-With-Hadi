@@ -20,7 +20,14 @@ I selected this visualization because it attempted to show **Coal Production (MT
 I chose it because it had strong potential: it contained rich data and a real opportunity to tell a meaningful story about **which states produce the most coal** versus **which produce it most efficiently**. The original design buried that insight under clutter, color overload, and scale confusion
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+After evaluating the “Indian Coal Mine Production” visualization using Stephen Few’s *Data Visualization Effectiveness Profile*, I found that while the dataset itself was valuable, the chart failed to communicate insight effectively. It scored low on usefulness (3/10), completeness (4/10), and perceptibility (3/10), showing that the design made interpretation unnecessarily difficult. The dual-axis layout confused the comparison between production and number of mines, and the lack of context—such as efficiency or production per mine—left the viewer guessing about meaning.
+
+The visualization was somewhat truthful (8/10) since the data appeared valid, but it lacked intuitiveness (4/10) and engagement (4/10). It didn’t invite exploration or tell a story; instead, it presented raw data in a cluttered form. Its aesthetics (5/10) were neutral—neither distracting nor compelling.
+
+The intended audience likely includes policymakers, journalists, and analysts seeking insight into regional production patterns. However, the visualization doesn’t help them answer key questions such as *Which states are most productive?* or *Which are most efficient?*  
+
+In my redesign, I plan to separate total production and efficiency (production per mine) into two clear bar charts, sorted in descending order and color-coded to highlight the top five performers. I’ll also refine titles, labels, and context to help the audience understand the story instantly without effort.
 
 ## Step three: Sketch a solution
 
