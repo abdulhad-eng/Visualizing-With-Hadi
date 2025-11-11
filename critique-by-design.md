@@ -12,6 +12,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ### Original Visualization
 ![Original Visualization – Indian Coal Production](1DmkisQ2OUIvOMnPg2vg_Screenshot%202021-01-20%20at%209.14.50%20pm.png)
+
 *Source: [Makeover Monday Week 4 Dataset – data.world](https://data.world/makeovermonday/2021w4)*
 
 I selected this visualization because it attempted to show **Coal Production (MT)** and **Number of Mines** for Indian districts in a single bar chart. However, the dual-axis approach made it confusing—two different metrics were plotted together without clear labeling or logical comparison.  
