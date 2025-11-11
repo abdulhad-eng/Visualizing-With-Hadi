@@ -31,6 +31,14 @@ In my redesign, I plan to separate total production and efficiency (production p
 
 ## Step three: Sketch a solution
 
+For my initial redesign sketch, I created a draft Tableau view comparing **total coal production by state** and **production efficiency (production per mine)**. This prototype allowed me to explore how separating production and efficiency could reveal different patterns across regions.
+
+In this stage, my goal was not visual polish but conceptual clarity — I wanted to test if these two metrics could be understood independently and still tell a cohesive story. I used color to highlight top-performing states while keeping the rest neutral to preserve context. The descending order helped surface India’s leading producers and most efficient states at a glance.
+
+Below is the early sketch version of the redesign:
+
+![Preliminary Tableau sketch showing coal production and efficiency comparison](Dashboard%201.png)
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
