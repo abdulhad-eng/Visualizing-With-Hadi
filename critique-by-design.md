@@ -41,43 +41,97 @@ Below is the early sketch version of the redesign:
 
 ## Step four: Test the solution
 
-Before conducting my interviews, I prepared a short feedback script to understand how clearly my redesigned visualization communicates information about coal production and production efficiency across Indian states. The goal was to see if viewers could understand the message — identifying top producers and most efficient states — without my explanation.
+Before conducting my interviews, I prepared a short feedback script to understand how clearly my redesigned visualization communicates information about **coal production** and **production efficiency** across Indian states. The goal was to see if viewers could interpret the message; identifying top producers and most efficient states without needing my explanation.  
 
 
-Questions to ask (modify these for your own interviews): 
+Questions to ask:
+	•	Can you tell me what you think this is?
+	•	Can you describe to me what this is telling you?
+	•	Is there anything you find surprising or confusing?
+	•	Who do you think is the intended audience for this?
+	•	Is there anything you would change or do differently?
 
-- Can you tell me what you think this is?
+### Results  
 
-- Can you describe to me what this is telling you?
+| **Question**                      | **Student 1 (PPM, Climate Sector Experience)** | **Student 2 (MISM 16, Data Science Experience)** |
+|-----------------------------------|------------------------------------------------|--------------------------------------------------|
+| What do you think this is?        | Title is pretty explanatory.                   | Coal output and efficiency. 
+| What stands out first?            | The highlighted bars.                          | The highlighted bars. 
+| Was anything confusing?           | Hard to compare the two graphs clearly.        | Unsure if these are two versions of the same thing. 
+| Who do you think is the audience? | Energy development companies.                  | Government policymakers. 
+| One thing you would change.       | Change colors between the two charts.          | Change color for distinction. 
+---
 
-- Is there anything you find surprising or confusing?
+### Synthesis  
 
-- Who do you think is the intended audience for this?
+Both participants immediately understood the topic of the visualization — **coal production and efficiency** — indicating that the title and general purpose were clear. The color highlights successfully drew attention, but both respondents pointed out confusion when comparing the two charts. This suggests that the **distinction** between them could be improved.  
 
-- Is there anything you would change or do differently?
+A recurring theme was **color differentiation**. Both students mentioned that the colors were too similar, making it difficult to distinguish between “high producers” and “highly efficient” states. The **intended audience** was identified correctly as policymakers and energy professionals, showing that the framing is appropriate. However, the design can better serve this audience through stronger **comparability and clearer visual separation**.  
 
-Results: 
+### Planned design changes  
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+- Use **distinct color palettes** for each chart to separate production from efficiency.  
+- Include a **subtitle or annotation** clarifying what “efficiency” and "leading" represents.
+- Change the placement of two graphs from side-by-side to up and down. 
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+## Step five: Build your solution
 
-Synthesis: 
+After receiving peer feedback and refining my design, I built the final visualization in **Tableau**.  
+My goal was to make India’s coal production data both **clearer and more comparative**, allowing the audience to see which states dominate in total output versus which states operate most efficiently per mine.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+---
 
-## Step five: build the solution
+### 🔄 Refining the Design
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+From the feedback stage, two recurring insights stood out:
+1. **Color clarity** — Both interviewees found it confusing that the two charts looked visually similar.  
+   → I solved this by assigning distinct color schemes: **orange** for *total production* and **blue** for *efficiency*.
+2. **Comparability** — Viewers struggled to connect the same states across charts.  
+   → I aligned both charts vertically, used consistent ordering, and added subtitles explaining the metrics.
 
-## References
-_List any references you used here._
+I also incorporated explicit metric definitions beneath each title so the user doesn’t have to infer what “Leading” or “Efficiency” means. This structure immediately sets expectations for how to interpret the visuals.
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+---
+
+### 🧩 The Final Visualization
+
+
+---
+
+### 🧠 What the Redesign Shows
+
+The redesigned visualization separates **scale** and **efficiency**, providing a more nuanced story of India’s coal sector.  
+- The top chart shows the *biggest producers* like **Chhattisgarh** and **Orissa** driving the majority of national output.  
+- The bottom chart reveals *efficiency leaders* such as **Uttar Pradesh** and **Tamil Nadu**, which achieve higher per-mine productivity despite smaller total output.
+
+Together, these charts allow policymakers, analysts, and journalists to explore whether production dominance aligns with operational efficiency—and where future investments or reforms might yield the most impact.
+
+---
+
+### 🧭 Why This Redesign Matters
+
+The original visualization presented both measures in a single cluttered view, making it hard to interpret. My redesign applies principles from **Stephen Few’s Data Visualization Effectiveness Profile** and **Good Charts**, focusing on:
+- **Clarity** – Separating two related metrics for easier interpretation.  
+- **Perceptibility** – Using descending bars for natural visual ranking.  
+- **Truthfulness** – Including clear units and definitions for each measure.  
+- **Aesthetics** – Applying minimal color emphasis to highlight key states while reducing noise.  
+
+By simplifying structure and emphasizing meaning, the final design tells a more compelling, evidence-driven story about production versus efficiency.
+
+---
+
+### 🧾 Citations and References
+
+- Original Data Visualization: [MakeoverMonday 2021/W4 – Indian Coal Mine Production](https://data.world/makeovermonday/2021w4)  
+- Source Dataset: Ministry of Coal, Government of India (2019–2020)  
+- Reference: Few, Stephen. *Data Visualization Effectiveness Profile*, 2017.  
+  [http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+
+---
+
+### 🤖 AI Acknowledgement
+
+AI (ChatGPT-5) was used to assist with structure, wording, and refinement of Markdown formatting for this write-up.  
+All design, visualization, and analysis work were completed independently by me using **Tableau**.
 
