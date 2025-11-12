@@ -41,7 +41,8 @@ Below is the early sketch version of the redesign:
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Before conducting my interviews, I prepared a short feedback script to understand how clearly my redesigned visualization communicates information about coal production and production efficiency across Indian states. The goal was to see if viewers could understand the message — identifying top producers and most efficient states — without my explanation.
+
 
 Questions to ask (modify these for your own interviews): 
 
