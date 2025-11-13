@@ -1,4 +1,4 @@
-| [home page](https://abdulhad-eng.github.io/Visualizing-With-Hadi/) | [data viz examples](dataviz-examples) | [critique-by-design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://abdulhad-eng.github.io/Visualizing-With-Hadi/) | [data viz examples](dataviz-examples.md) | [critique-by-design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Data visualization examples
 ## OECD Government Debt Visualization
