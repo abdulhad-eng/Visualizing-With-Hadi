@@ -97,7 +97,7 @@ I also incorporated explicit metric definitions beneath each title so the user d
 
 ### 🧩 The Final Visualization
 
-![Final Dashboard](Final Dashboard.png)
+![Final Dashboard](Final-Dashboard.png)
 ---
 
 ### 🧠 What the Redesign Shows
