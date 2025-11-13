@@ -34,11 +34,13 @@ Here’s where I’ll collect and share my work from this course:
 ### Working with Tableau – Visualizing Government Debt  
 *Building interactive visualizations to explore government debt data.*
 
-### Assignment: [Visualizing Government Debt](visualizing-government-debt)
+👉 [Assignment: Visualizing Government Debt](visualizing-government-debt.md)
  
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment 3 & 4: Critique by Design
+This assignment is linked to a separate page.
+
+👉 [Click here to view my Critique by Design work](critique-by-design.md)
 
 ## Final project 
 ### Final Project – Data Storytelling  
