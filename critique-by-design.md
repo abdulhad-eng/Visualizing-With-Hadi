@@ -44,12 +44,13 @@ Below is the early sketch version of the redesign:
 Before conducting my interviews, I prepared a short feedback script to understand how clearly my redesigned visualization communicates information about **coal production** and **production efficiency** across Indian states. The goal was to see if viewers could interpret the message; identifying top producers and most efficient states without needing my explanation.  
 
 
-Questions to ask:
-	•	Can you tell me what you think this is?
-	•	Can you describe to me what this is telling you?
-	•	Is there anything you find surprising or confusing?
-	•	Who do you think is the intended audience for this?
-	•	Is there anything you would change or do differently?
+**Questions to ask:**
+
+- Can you tell me what you think this is?
+- Can you describe to me what this is telling you?
+- Is there anything you find surprising or confusing?
+- Who do you think is the intended audience for this?
+- Is there anything you would change or do differently?
 
 ### Results  
 
@@ -96,7 +97,7 @@ I also incorporated explicit metric definitions beneath each title so the user d
 
 ### 🧩 The Final Visualization
 
-
+![Final Dashboard](Final Dashboard.png)
 ---
 
 ### 🧠 What the Redesign Shows
