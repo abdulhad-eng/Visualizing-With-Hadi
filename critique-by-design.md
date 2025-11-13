@@ -89,7 +89,7 @@ From the feedback stage, two recurring insights stood out:
 1. **Color clarity** — Both interviewees found it confusing that the two charts looked visually similar.  
    → I solved this by assigning distinct color schemes: **orange** for *total production* and **blue** for *efficiency*.
 2. **Comparability** — Viewers struggled to connect the same states across charts.  
-   → I aligned both charts vertically, used consistent ordering, and added subtitles explaining the metrics.
+   → I aligned both charts vertically and added subtitles explaining the metrics.
 
 I also incorporated explicit metric definitions beneath each title so the user doesn’t have to infer what “Leading” or “Efficiency” means. This structure immediately sets expectations for how to interpret the visuals.
 
