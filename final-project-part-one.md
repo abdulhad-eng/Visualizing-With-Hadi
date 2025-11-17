@@ -90,7 +90,7 @@ This helps examine whether emotional narrowing is:
 
 ![Genres Losing Emotional Contrast](P4Genres_losing_contrast.png)
 
-Bar-range sketches for genres like **Pop**, **EDM**, and **Commercial Dance**, showing reduced valence range.  
+Bar-range sketches for genres like **Pop** and **Commercial Dance**, showing reduced valence range.  
 These genres appear the most **“algorithmically compressed.”**
 
 
@@ -101,7 +101,6 @@ These genres appear the most **“algorithmically compressed.”**
 
 Parallel to Sketch 5, this concept shows genres with broader emotional palettes, such as:  
 - Acoustic  
-- Indie  
 - Classical-influenced genres  
 
 These sketches provide contrast: **not all genres are homogenizing equally**.
@@ -114,9 +113,7 @@ These sketches provide contrast: **not all genres are homogenizing equally**.
 
 Radar-style mockups showing how high-valence and low-valence songs differ in:  
 - acousticness  
-- loudness  
-- tempo  
-- energy  
+- loudness   
 - danceability  
 
 This addresses the question: **When emotional extremes still exist, what makes them unique?**
