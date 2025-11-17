@@ -4,9 +4,16 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Globally, the average person spent 20.7 hours per week listening to music in 2023, according to IFPI’s Engaging with Music global report.
+Source: https://www.ifpi.org/ifpis-global-study-finds-were-listening-to-more-music-in-more-ways-than-ever
+
+For many people — including me — that number is even higher. My weekly listening time easily crosses 30 hours. Music has become an emotional regulator, a daily ritual, and a constant presence in our environments. Because of that, the emotional character of the music we consume matters more than ever.
+
+This project investigates a central question:
+
+Is modern music becoming emotionally homogeneous?
+
+Using large-scale Spotify audio features across hundreds of thousands of tracks, genres, languages, and decades, the project explores whether the emotional range of music has tightened over time — and whether certain genres or languages are losing emotional variation more quickly.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
