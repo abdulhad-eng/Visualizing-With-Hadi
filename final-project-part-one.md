@@ -167,13 +167,10 @@ This single dataset fully supports the global + multilingual + emotional compari
 
 ## Dataset link
 
-| Name                                | URL                                                       | Description                         |
-|-------------------------------------|-----------------------------------------------------------|-------------------------------------|
-| Spotify Multilingual Tracks Dataset | https://www.kaggle.com/datasets/gauthamvijayaraj/spotify- |                                     |
-|                                     |  tracks-dataset-updated-every-week                        | Primary dataset (60k+ tracks, 6     |   |                                     |                                                           |    languages, full audio features)  |
-| IFPI “Engaging with Music” 2023     | https://www.ifpi.org/ifpis-global-study-finds-were-       |                                     |
-|                                     |  listening-to-more-music-in-more-ways-than-ever           | Source for the 20.7 hours/week      |
-|                                     |                                                           |      global listening statistic     |
+| Name                                | URL                                                                                             | Description                                      |
+|-------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Spotify Multilingual Tracks Dataset | https://www.kaggle.com/datasets/gauthamvijayaraj/spotify-tracks-dataset-updated-every-week     | Primary dataset (60k+ tracks, 6 languages, full audio features) |
+| IFPI “Engaging with Music” 2023     | https://www.ifpi.org/ifpis-global-study-finds-were-listening-to-more-music-in-more-ways-than-ever | Source for the 20.7 hours/week global listening statistic |
 
 ## Method and medium
 
@@ -192,7 +189,7 @@ Data cleaning, preprocessing, and exploratory analysis will be done in **Python*
 
 ## AI acknowledgements
 
-I used **ChatGPT** to brainstorm project ideas, refine the story framing, and format the written portions of this page. I will also use AI for generating **initial sketches** (story layout mockups, visualization layout drafts, and storyboard-style panels). These sketches will be guided by prompts I write and will serve only as planning references; all final visualizations and narrative structure will be created by me.
+I used **ChatGPT** to brainstorm project ideas, refine the story framing, and format the written portions of this page. I have also used AI for generating **initial sketches** (story layout mockups, visualization layout drafts, and storyboard-style panels). These sketches will are guided by prompts I write and serving only as planning references; all final visualizations and narrative structure will be created by me.
 
 
 
