@@ -2,7 +2,7 @@
 
 
 # Final Project – Part I  
-# Title:  Has Modern Music Lost Its Emotional Range?
+# Has Modern Music Lost Its Emotional Range?
 
 ## Outline
 
