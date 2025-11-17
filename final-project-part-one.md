@@ -42,18 +42,59 @@ Wrap up with what these patterns could mean for creativity, listeners’ emotion
 
 Text here...
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+## The data
 
-Text here...
+I am using **one single dataset** that already includes:
+- 60,000+ Spotify tracks  
+- 6 languages  
+- full audio-feature metadata  
+- release year  
+- track popularity  
+- genre  
+- acoustic/emotional features  
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+### **Dataset: Spotify Multilingual Tracks (Updated Weekly)**  
+**Source:** Kaggle  
+**URL:** https://www.kaggle.com/datasets/gauthamvijayaraj/spotify-tracks-dataset-updated-every-week
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+### **Key variables I will use**
+- `year`  
+- `language`  
+- `valence`  
+- `energy`  
+- `loudness`  
+- `acousticness`  
+- `danceability`  
+- `speechiness`  
+- `track_genre`  
+- `popularity`  
+
+### **How I will use the data**
+I will:
+
+- Clean and standardize the dataset (handle -1 values, clean genres, ensure year ranges are valid)
+- Group songs by **year**, **genre**, and **language**
+- Compute emotional spread measures:
+  - Variance / IQR of valence  
+  - Variance / IQR of energy  
+  - Combined “emotional spread index”
+- Identify and count outlier tracks (top/bottom 5% valence)
+- Compare trends across time, genre, and language  
+- Create summary datasets for Tableau  
+- Build final story narrative in Shorthand
+
+This single dataset fully supports the global + multilingual + emotional comparison story.
+ 
+
+## Dataset link
+
+| Name                                | URL                                                       | Description                         |
+|-------------------------------------|-----------------------------------------------------------|-------------------------------------|
+| Spotify Multilingual Tracks Dataset | https://www.kaggle.com/datasets/gauthamvijayaraj/spotify- |                                     |
+|                                     |  tracks-dataset-updated-every-week                        | Primary dataset (60k+ tracks, 6     |   |                                     |                                                           |     languages, full audio features) |
+| IFPI “Engaging with Music” 2023     | https://www.ifpi.org/ifpis-global-study-finds-were-       |                                     |
+|                                     |  listening-to-more-music-in-more-ways-than-ever           | Source for the 20.7 hours/week      |
+|                                     |                                                           |      global listening statistic     |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
