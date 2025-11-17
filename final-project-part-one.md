@@ -45,8 +45,11 @@ Below are my initial planned sketches, each aligned with the story structure and
 
 
 ### **Sketch 1 — Weekly Listening Time**
-File: Avg_Music-preview.png 
-![Weekly Music Listening vs One Day](images/music_as_day_visual*20.7 hours of weekly music listening** to the length of a full **24-hour day**, emphasizing how deeply music is woven into everyday life. It acts as the introductory hook: if music occupies nearly a full day each week, its emotional composition deserves attention.
+**File:** `Avg_Music-preview.png`
+
+![Weekly Music Listening vs One Day](Avg_Music-preview.png)
+
+This makes it visually clear that the **20.7 hours** people spend listening to music per week is almost equivalent to a **full 24-hour day**.
 
 
 
