@@ -170,7 +170,7 @@ This single dataset fully supports the global + multilingual + emotional compari
 | Name                                | URL                                                       | Description                         |
 |-------------------------------------|-----------------------------------------------------------|-------------------------------------|
 | Spotify Multilingual Tracks Dataset | https://www.kaggle.com/datasets/gauthamvijayaraj/spotify- |                                     |
-|                                     |  tracks-dataset-updated-every-week                        | Primary dataset (60k+ tracks, 6     |   |                                     |                                                           |     languages, full audio features) |
+|                                     |  tracks-dataset-updated-every-week                        | Primary dataset (60k+ tracks, 6     |   |                                     |                                                           |    languages, full audio features)  |
 | IFPI “Engaging with Music” 2023     | https://www.ifpi.org/ifpis-global-study-finds-were-       |                                     |
 |                                     |  listening-to-more-music-in-more-ways-than-ever           | Source for the 20.7 hours/week      |
 |                                     |                                                           |      global listening statistic     |
