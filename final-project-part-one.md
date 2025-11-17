@@ -96,13 +96,24 @@ This single dataset fully supports the global + multilingual + emotional compari
 |                                     |  listening-to-more-music-in-more-ways-than-ever           | Source for the 20.7 hours/week      |
 |                                     |                                                           |      global listening statistic     |
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+## Method and medium
 
-Text here...
+I will create my final project as an **interactive, standalone digital story**.
+My project will use **Shorthand** as the primary storytelling platform. Shorthand’s scroll-based format allows me to combine narrative text, images, and embedded data visualizations in a way that feels cohesive and immersive. All visualizations — such as temporal trends, genre comparisons, and emotional-range distributions — will be created in **Tableau**, exported as interactive dashboards, and embedded directly into the Shorthand story.
+
+Data cleaning, preprocessing, and exploratory analysis will be done in **Python**, ensuring the dataset is structured appropriately for Tableau. I will **not** use PowerPoint or Excel for the final deliverable.
+
 
 ## References
-_List any references you used here._
+
+
+- IFPI. (2023). *Engaging with music: Global report 2023.* International Federation of the Phonographic Industry. https://www.ifpi.org/ifpis-global-study-finds-were-listening-to-more-music-in-more-ways-than-ever  
+- Vijayaraj, G. (n.d.). *Spotify tracks dataset (updated every week).* Kaggle. https://www.kaggle.com/datasets/gauthamvijayaraj/spotify-tracks-dataset-updated-every-week  
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used **ChatGPT** to brainstorm project ideas, refine the story framing, and format the written portions of this page. I will also use AI for generating **initial sketches** (story layout mockups, visualization layout drafts, and storyboard-style panels). These sketches will be guided by prompts I write and will serve only as planning references; all final visualizations and narrative structure will be created by me.
+
+
+
