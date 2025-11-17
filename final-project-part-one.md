@@ -52,51 +52,74 @@ Below are my initial planned sketches, each aligned with the story structure and
 This makes it visually clear that the **20.7 hours** people spend listening to music per week is almost equivalent to a **full 24-hour day**.
 
 
+### **Sketch 2 — Shrinking Emotional Range Over Time**
+**File:** `P1Shrinking_range_chart.png`
 
-## **Sketch 2 — Shrinking Emotional Range Over Time**
-**File:** `P1Shrinking_range_chart.png`  
-A conceptual bar-range sketch showing the min–max spread of valence and energy across decades (1980–2024).  
-**Question:** *Has music become emotionally narrower over time?*
+![Shrinking Emotional Range Over Time](P1Shrinking_range_chart.png)
+
+A conceptual bar-range sketch showing the **min–max spread of valence and energy** across decades (1980–2024).  
+This introduces the central question: **Has music become emotionally narrower over time?**
 
 
 ### **Sketch 3 — Old vs. New Emotional Distributions**
-**File:** `P2Distribution_comparison.png`  
-A pair of distribution sketches:  
-- Older music → wide, varied emotional curve  
-- Modern music → narrow clustering around the center  
+**File:** `P2Distribution_comparison.png`
 
-This visually argues that emotional diversity may be declining.
+![Old vs New Emotional Distributions](P2Distribution_comparison.png)
+
+A pair of distribution sketches:  
+- **Older music →** wide, varied emotional curve  
+- **Modern music →** tight clustering around the center  
+
+This visually argues that **emotional diversity may be declining**.
 
 
 ### **Sketch 4 — Emotional Range Across Languages**
-**File:** `P3Language_valence_boxplot.png`  
+**File:** `P3Language_valence_boxplot.png`
+
+![Emotional Range Across Languages](P3Language_valence_boxplot.png)
+
 Boxplots comparing valence across six languages:  
 English, Hindi, Tamil, Telugu, Malayalam, and Korean.  
 This helps examine whether emotional narrowing is:  
-- a global phenomenon  
-- or varies culturally.
+- **a global phenomenon**, or  
+- **varies culturally**.
 
 
 ### **Sketch 5 — Genres Losing Emotional Contrast**
-**File:** `P4Genres_losing_contrast.png`  
-Bar-range sketches for genres such as Pop, EDM, and Commercial Dance, showing reduced emotional variance.  
-These genres appear the most “algorithmically compressed.”
+**File:** `P4Genres_losing_contrast.png`
+
+![Genres Losing Emotional Contrast](P4Genres_losing_contrast.png)
+
+Bar-range sketches for genres like **Pop**, **EDM**, and **Commercial Dance**, showing reduced valence range.  
+These genres appear the most **“algorithmically compressed.”**
 
 
 ### **Sketch 6 — Genres With Wide Emotional Expression**
-**File:** `P5Genres_wide_expression.png`  
+**File:** `P5Genres_wide_expression.png`
+
+![Genres With Wide Emotional Expression](P5Genres_wide_expression.png)
+
 Parallel to Sketch 5, this concept shows genres with broader emotional palettes, such as:  
 - Acoustic  
 - Indie  
 - Classical-influenced genres  
 
-These sketches provide contrast: not all genres are homogenizing equally.
+These sketches provide contrast: **not all genres are homogenizing equally**.
 
 
 ### **Sketch 7 — Emotional Fingerprints**
-**File:** `P6Emotional_fingerprints.png`  
-Radar-style mockups showing how high-valence and low-valence songs differ in acousticness, loudness, tempo, energy, and danceability.  
-**Question:** *When emotional extremes still exist, what makes them unique?*
+**File:** `P6Emotional_fingerprints.png`
+
+![Emotional Fingerprints](P6Emotional_fingerprints.png)
+
+Radar-style mockups showing how high-valence and low-valence songs differ in:  
+- acousticness  
+- loudness  
+- tempo  
+- energy  
+- danceability  
+
+This addresses the question: **When emotional extremes still exist, what makes them unique?**
 
 
 These sketches collectively support my narrative arc — beginning with why music matters, showing emotional narrowing across time, comparing genres and languages, and ending with the unique “fingerprints” of emotional outliers.
