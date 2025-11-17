@@ -45,7 +45,7 @@ Below are my initial planned sketches, each aligned with the story structure and
 
 
 ### **Sketch 1 — Weekly Listening Time**
-**File:** `Avg_Music-preview.png`
+
 
 ![Weekly Music Listening vs One Day](Avg_Music-preview.png)
 
@@ -53,7 +53,7 @@ This makes it visually clear that the **20.7 hours** people spend listening to m
 
 
 ### **Sketch 2 — Shrinking Emotional Range Over Time**
-**File:** `P1Shrinking_range_chart.png`
+
 
 ![Shrinking Emotional Range Over Time](P1Shrinking_range_chart.png)
 
@@ -62,7 +62,7 @@ This introduces the central question: **Has music become emotionally narrower ov
 
 
 ### **Sketch 3 — Old vs. New Emotional Distributions**
-**File:** `P2Distribution_comparison.png`
+
 
 ![Old vs New Emotional Distributions](P2Distribution_comparison.png)
 
@@ -74,7 +74,7 @@ This visually argues that **emotional diversity may be declining**.
 
 
 ### **Sketch 4 — Emotional Range Across Languages**
-**File:** `P3Language_valence_boxplot.png`
+
 
 ![Emotional Range Across Languages](P3Language_valence_boxplot.png)
 
@@ -86,7 +86,7 @@ This helps examine whether emotional narrowing is:
 
 
 ### **Sketch 5 — Genres Losing Emotional Contrast**
-**File:** `P4Genres_losing_contrast.png`
+
 
 ![Genres Losing Emotional Contrast](P4Genres_losing_contrast.png)
 
@@ -95,7 +95,7 @@ These genres appear the most **“algorithmically compressed.”**
 
 
 ### **Sketch 6 — Genres With Wide Emotional Expression**
-**File:** `P5Genres_wide_expression.png`
+
 
 ![Genres With Wide Emotional Expression](P5Genres_wide_expression.png)
 
@@ -107,7 +107,7 @@ These sketches provide contrast: **not all genres are homogenizing equally**.
 
 
 ### **Sketch 7 — Emotional Fingerprints**
-**File:** `P6Emotional_fingerprints.png`
+
 
 ![Emotional Fingerprints](P6Emotional_fingerprints.png)
 
