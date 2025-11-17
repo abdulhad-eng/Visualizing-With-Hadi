@@ -2,7 +2,7 @@
 
 
 # Final Project – Part I  
-**Working title:** *Has Modern Music Lost Its Emotional Range?*
+**Title:** *Has Modern Music Lost Its Emotional Range?*
 
 ## Outline
 
