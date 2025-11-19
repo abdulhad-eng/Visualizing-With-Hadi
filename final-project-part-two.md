@@ -19,32 +19,32 @@ All wireframes include:
 ```
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
-│     ╔══════════════════════════════════════════════╗      │
-│     ║    20.7 HOURS EVERY WEEK                     ║      │
-│     ║    That's How Much Music We Consume          ║      │
-│     ╚══════════════════════════════════════════════╝      │
+│     ╔══════════════════════════════════════════════╗       │
+│     ║    20.7 HOURS EVERY WEEK                     ║       │
+│     ║    That's How Much Music We Consume          ║       │ 
+│     ╚══════════════════════════════════════════════╝       │
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │                                                    │     │
-│  │     [HERO VISUALIZATION: Time Bar Chart]          │     │
-│  │     ┌─────────────────────────────────┐          │     │
-│  │     │ Monday    ████████               │          │     │
-│  │     │ Tuesday   ██████                 │          │     │
-│  │     │ Wednesday ███████                │          │     │
-│  │     │ Thursday  ████████               │          │     │
-│  │     │ Friday    ███████████            │          │     │
-│  │     │ Weekend   ████████████████       │          │     │
-│  │     │                                  │          │     │
-│  │     │ Total: 20.7 hours ≈ 1 full day  │          │     │
-│  │     └─────────────────────────────────┘          │     │
-│  │                                                    │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │                                                  │      │
+│  │     [HERO VISUALIZATION: Time Bar Chart]         │      │
+│  │     ┌─────────────────────────────────┐          │      │
+│  │     │ Monday    ████████              │          │      │
+│  │     │ Tuesday   ██████                │          │      │
+│  │     │ Wednesday ███████               │          │      │
+│  │     │ Thursday  ████████              │          │      │
+│  │     │ Friday    ███████████           │          │      │
+│  │     │ Weekend   ████████████████      │          │      │
+│  │     │                                 │          │      │
+│  │     │ Total: 20.7 hours ≈ 1 full day  │          │      │
+│  │     └─────────────────────────────────┘          │      │
+│  │                                                  │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Text: "We spend nearly a full day each week with music.  │
-│        But what if every song is starting to sound        │
-│        emotionally... the same?"                          │
+│  Text: "We spend nearly a full day each week with music.   │
+│        But what if every song is starting to sound         │
+│        emotionally... the same?"                           │
 │                                                            │
-│                    ↓ Scroll to explore ↓                  │
+│                    ↓ Scroll to explore ↓                   │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -58,36 +58,36 @@ All wireframes include:
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  HEADER: Music's Emotional Range is Collapsing            │
+│  HEADER: Music's Emotional Range is Collapsing             │
 │────────────────────────────────────────────────────────────│
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │  [MAIN CHART: Emotional Variance Over Time]       │     │
-│  │                                                    │     │
-│  │  Variance                                         │     │
-│  │    0.8 │                                          │     │
-│  │        │ ●1980s                                   │     │
-│  │    0.6 │   ●1990s                                 │     │
-│  │        │      ●2000s                              │     │
-│  │    0.4 │         ●2010s                           │     │
-│  │        │            ●2020s                        │     │
-│  │    0.2 │                                          │     │
-│  │        └──────────────────────────────            │     │
-│  │        1980   1990   2000   2010   2020           │     │
-│  │                                                    │     │
-│  │  Annotation: "32% decrease in emotional variance" │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │  [MAIN CHART: Emotional Variance Over Time]      │      │
+│  │                                                  │      │
+│  │  Variance                                        │      │
+│  │    0.8 │                                         │      │
+│  │        │ ●1980s                                  │      │
+│  │    0.6 │   ●1990s                                │      │
+│  │        │      ●2000s                             │      │ 
+│  │    0.4 │         ●2010s                          │      │
+│  │        │            ●2020s                       │      │
+│  │    0.2 │                                         │      │
+│  │        └──────────────────────────────           │      │
+│  │        1980   1990   2000   2010   2020          │      │
+│  │                                                  │      │
+│  │ Annotation: "32% decrease in emotional variance" │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Supporting Text: "Since 1980, the emotional diversity    │
-│  of popular music has dropped by nearly a third.          │
-│  Songs cluster increasingly toward a narrow middle        │
-│  ground—not too sad, not too happy."                     │
+│  Supporting Text: "Since 1980, the emotional diversity     │
+│  of popular music has dropped by nearly a third.           │
+│  Songs cluster increasingly toward a narrow middle         │
+│  ground—not too sad, not too happy."                       │
 │                                                            │
-│  ┌─────────────────────────┐                              │
-│  │ KEY INSIGHT BOX:        │                              │
-│  │ 32% reduction           │                              │
-│  │ in emotional range      │                              │
-│  └─────────────────────────┘                              │
+│  ┌─────────────────────────┐                               │
+│  │ KEY INSIGHT BOX:        │                               │ 
+│  │ 32% reduction           │                               │
+│  │ in emotional range      │                               │
+│  └─────────────────────────┘                               │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -101,35 +101,35 @@ All wireframes include:
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  HEADER: Every Major Genre is Converging                  │
+│  HEADER: Every Major Genre is Converging                   │
 │────────────────────────────────────────────────────────────│
 │                                                            │
-│  Text: "You might think this is just pop music becoming   │
-│        formulaic. But look at the data..."                │
+│  Text: "You might think this is just pop music becoming    │
+│        formulaic. But look at the data..."                 │
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │  [CHART: Genre Emotional Range Comparison]        │     │
-│  │                                                    │     │
-│  │     Genre      1980s Range → 2020s Range          │     │
-│  │     ─────────────────────────────────────         │     │
-│  │     Pop:       ████████████ → ████                │     │
-│  │                     -28%                          │     │
-│  │                                                    │     │
-│  │     Rock:      █████████████ → █████              │     │
-│  │                     -35%                          │     │
-│  │                                                    │     │
-│  │     Hip-Hop:   ███████████ → ████                 │     │
-│  │                     -41%                          │     │
-│  │                                                    │     │
-│  │     Electronic:████████████ → █████               │     │
-│  │                     -33%                          │     │
-│  │                                                    │     │
-│  │     Indie:     ████████████ → ███████             │     │
-│  │                     -24%                          │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │  [CHART: Genre Emotional Range Comparison]       │      │
+│  │                                                  │      │
+│  │     Genre      1980s Range → 2020s Range         │      │
+│  │     ─────────────────────────────────────        │      │
+│  │     Pop:       ████████████ → ████               │      │
+│  │                     -28%                         │      │
+│  │                                                  │      │
+│  │     Rock:      █████████████ → █████             │      │
+│  │                     -35%                         │      │
+│  │                                                  │      │
+│  │     Hip-Hop:   ███████████ → ████                │      │ 
+│  │                     -41%                         │      │
+│  │                                                  │      │
+│  │     Electronic:████████████ → █████              │      │
+│  │                     -33%                         │      │
+│  │                                                  │      │
+│  │     Indie:     ████████████ → ███████            │      │
+│  │                     -24%                         │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Caption: "Every genre shows compression. This isn't      │
-│           a genre problem—it's a system problem."         │
+│  Caption: "Every genre shows compression. This isn't       │
+│           a genre problem—it's a system problem."          │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -143,34 +143,34 @@ All wireframes include:
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  HEADER: From Seoul to São Paulo - A Worldwide Trend      │
+│  HEADER: From Seoul to São Paulo - A Worldwide Trend       │
 │────────────────────────────────────────────────────────────│
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │  [SMALL MULTIPLES: Language Comparison]           │     │
-│  │                                                    │     │
-│  │  ┌─────────┐  ┌─────────┐  ┌─────────┐          │     │
-│  │  │English  │  │Korean   │  │Spanish  │          │     │
-│  │  │    ╲    │  │    ╲    │  │    ╲    │          │     │
-│  │  │     ╲   │  │     ╲   │  │     ╲   │          │     │
-│  │  │  -32% ╲ │  │  -41% ╲ │  │  -33% ╲ │          │     │
-│  │  └─────────┘  └─────────┘  └─────────┘          │     │
-│  │                                                    │     │
-│  │  ┌─────────┐  ┌─────────┐  ┌─────────┐          │     │
-│  │  │Hindi    │  │Portuguese│ │Japanese │          │     │
-│  │  │    ╲    │  │    ╲    │  │    ╲    │          │     │
-│  │  │     ╲   │  │     ╲   │  │     ╲   │          │     │
-│  │  │  -29% ╲ │  │  -37% ╲ │  │  -31% ╲ │          │     │
-│  │  └─────────┘  └─────────┘  └─────────┘          │     │
-│  │                                                    │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │  [SMALL MULTIPLES: Language Comparison]          │      │
+│  │                                                  │      │
+│  │  ┌─────────┐  ┌─────────┐  ┌─────────┐           │      │
+│  │  │English  │  │Korean   │  │Spanish  │           │      │
+│  │  │    ╲    │  │    ╲    │  │    ╲    │           │      │
+│  │  │     ╲   │  │     ╲   │  │     ╲   │           │      │
+│  │  │  -32% ╲ │  │  -41% ╲ │  │  -33% ╲ │           │      │
+│  │  └─────────┘  └─────────┘  └─────────┘           │      │
+│  │                                                  │      │
+│  │  ┌─────────┐  ┌─────────┐  ┌─────────┐           │      │
+│  │  │Hindi    │  │Portuguese│ │Japanese │           │      │
+│  │  │    ╲    │  │    ╲    │  │    ╲    │           │      │
+│  │  │     ╲   │  │     ╲   │  │     ╲   │           │      │
+│  │  │  -29% ╲ │  │  -37% ╲ │  │  -31% ╲ │           │      │
+│  │  └─────────┘  └─────────┘  └─────────┘           │      │
+│  │                                                  │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Text: "Different cultures. Different musical             │
-│        traditions. Same algorithmic pressure."            │
+│  Text: "Different cultures. Different musical              │
+│        traditions. Same algorithmic pressure."             │
 │                                                            │
-│  Annotation: "This suggests we're seeing global           │
-│              algorithmic optimization, not cultural       │
-│              evolution."                                  │
+│  Annotation: "This suggests we're seeing global            │
+│              algorithmic optimization, not cultural        │
+│              evolution."                                   │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -184,32 +184,32 @@ All wireframes include:
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  HEADER: What We've Lost in 40 Years                      │
+│  HEADER: What We've Lost in 40 Years                       │
 │────────────────────────────────────────────────────────────│
 │                                                            │
-│  ┌─────────────────────┬─────────────────────┐           │
-│  │      1980s          │       2020s          │           │
-│  │                     │                      │           │
-│  │    Distribution     │    Distribution      │           │
-│  │         ╱╲          │         │            │           │
-│  │       ╱    ╲        │         █            │           │
-│  │     ╱        ╲      │        ███           │           │
-│  │   ╱            ╲    │       █████          │           │
-│  │ ╱________________╲  │      ███████         │           │
-│  │ Sad    Mid    Happy │ Sad  Mid  Happy      │           │
-│  │                     │                      │           │
-│  │ "Wide emotional     │ "73% of songs        │           │
-│  │  spectrum"          │  in the middle"      │           │
-│  └─────────────────────┴─────────────────────┘           │
+│  ┌─────────────────────┬─────────────────────┐             │
+│  │      1980s          │       2020s         │             │
+│  │                     │                     │             │
+│  │    Distribution     │    Distribution     │             │
+│  │         ╱╲          │         │           │             │
+│  │       ╱    ╲        │         █           │             │
+│  │     ╱        ╲      │        ███          │             │
+│  │   ╱            ╲    │       █████         │             │
+│  │ ╱________________╲  │      ███████        │             │
+│  │ Sad    Mid    Happy │ Sad  Mid  Happy     │             │
+│  │                     │                     │             │
+│  │ "Wide emotional     │ "73% of songs       │             │
+│  │  spectrum"          │  in the middle"     │             │
+│  └─────────────────────┴─────────────────────┘             │
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │ SHOCKING STAT:                                   │     │
-│  │ 73% of today's music lives in the               │     │
-│  │ emotional middle ground                          │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │ SHOCKING STAT:                                   │      │
+│  │ 73% of today's music lives in the                │      │
+│  │ emotional middle ground                          │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Text: "We've lost the cathartic lows and euphoric       │
-│        highs. Music is becoming emotionally beige."       │
+│  Text: "We've lost the cathartic lows and euphoric         │
+│        highs. Music is becoming emotionally beige."        │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -223,40 +223,40 @@ All wireframes include:
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  HEADER: The Cost of Emotional Homogenization            │
+│  HEADER: The Cost of Emotional Homogenization              │
 │────────────────────────────────────────────────────────────│
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │  [INFOGRAPHIC: The Feedback Loop]                 │     │
-│  │                                                    │     │
-│  │        ┌─────────────────────┐                   │     │
-│  │        │ Algorithm Predicts  │                   │     │
-│  │        │ "Skip Likelihood"   │                   │     │
-│  │        └──────────┬──────────┘                   │     │
-│  │                   ↓                               │     │
-│  │        ┌─────────────────────┐                   │     │
-│  │        │ Artists Create      │                   │     │
-│  │        │ "Safe" Music        │                   │     │
-│  │        └──────────┬──────────┘                   │     │
-│  │                   ↓                               │     │
-│  │        ┌─────────────────────┐                   │     │
-│  │        │ Listeners Hear      │                   │     │
-│  │        │ Narrow Range        │                   │     │
-│  │        └──────────┬──────────┘                   │     │
-│  │                   ↓                               │     │
-│  │        ┌─────────────────────┐                   │     │
-│  │        │ Data Reinforces     │                   │     │
-│  │        │ Middle Ground       │                   │     │
-│  │        └──────────┬──────────┘                   │     │
-│  │                   ↓                               │     │
-│  │              [LOOP BACK]                          │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │  [INFOGRAPHIC: The Feedback Loop]                │      │
+│  │                                                  │      │
+│  │        ┌─────────────────────┐                   │      │
+│  │        │ Algorithm Predicts  │                   │      │
+│  │        │ "Skip Likelihood"   │                   │      │
+│  │        └──────────┬──────────┘                   │      │
+│  │                   ↓                              │      │
+│  │        ┌─────────────────────┐                   │      │
+│  │        │ Artists Create      │                   │      │
+│  │        │ "Safe" Music        │                   │      │
+│  │        └──────────┬──────────┘                   │      │
+│  │                   ↓                              │      │
+│  │        ┌─────────────────────┐                   │      │
+│  │        │ Listeners Hear      │                   │      │
+│  │        │ Narrow Range        │                   │      │
+│  │        └──────────┬──────────┘                   │      │
+│  │                   ↓                              │      │
+│  │        ┌─────────────────────┐                   │      │
+│  │        │ Data Reinforces     │                   │      │
+│  │        │ Middle Ground       │                   │      │ 
+│  │        └──────────┬──────────┘                   │      │
+│  │                   ↓                              │      │
+│  │              [LOOP BACK]                         │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Text Points:                                             │
-│  • We use music to process grief (but sad songs vanish)   │
-│  • We celebrate with music (but euphoric songs are rare)  │
-│  • Music helps us feel understood (but nuance flattens)   │
-│  • Young listeners grow up with limited emotional vocab   │
+│  Text Points:                                              │
+│  • We use music to process grief (but sad songs vanish)    │
+│  • We celebrate with music (but euphoric songs are rare)   │
+│  • Music helps us feel understood (but nuance flattens)    │
+│  • Young listeners grow up with limited emotional vocab    │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -270,37 +270,37 @@ All wireframes include:
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  HEADER: Breaking Free from the Algorithmic Middle        │
+│  HEADER: Breaking Free from the Algorithmic Middle         │
 │────────────────────────────────────────────────────────────│
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │  THE PLAYLIST CHALLENGE:                         │     │
-│  │                                                    │     │
-│  │  Create two playlists:                           │     │
-│  │  1. Your current favorites                       │     │
-│  │  2. Songs that made you FEEL the most           │     │
-│  │                                                    │     │
-│  │  Compare their emotional ranges.                 │     │
-│  │                                                    │     │
-│  │  [Interactive Element Placeholder]                │     │
-│  │  ┌────────────────────────────────┐              │     │
-│  │  │  Test Your Playlist's Range    │              │     │
-│  │  │         [BUTTON]                │              │     │
-│  │  └────────────────────────────────┘              │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │  THE PLAYLIST CHALLENGE:                         │      │
+│  │                                                  │      │
+│  │  Create two playlists:                           │      │
+│  │  1. Your current favorites                       │      │
+│  │  2. Songs that made you FEEL the most            │      │
+│  │                                                  │      │
+│  │  Compare their emotional ranges.                 │      │
+│  │                                                  │      │
+│  │  [Interactive Element Placeholder]               │      │
+│  │  ┌────────────────────────────────┐              │      │
+│  │  │  Test Your Playlist's Range    │              │      │
+│  │  │         [BUTTON]               │              │      │
+│  │  └────────────────────────────────┘              │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Action Items for Listeners:                              │
-│  • Seek emotional extremes deliberately                   │
-│  • Use discovery features less, active search more        │
-│  • Support artists who take emotional risks               │
-│  • Share intense songs even if not "playlist-friendly"    │
+│  Action Items for Listeners:                               │
+│  • Seek emotional extremes deliberately                    │
+│  • Use discovery features less, active search more         │
+│  • Support artists who take emotional risks                │
+│  • Share intense songs even if not "playlist-friendly"     │
 │                                                            │
-│  Questions for Society:                                   │
-│  • Should platforms optimize for emotional diversity?     │
-│  • Are we okay with algorithms shaping our emotions?      │
-│  • What are we losing when all music feels the same?      │
+│  Questions for Society:                                    │
+│  • Should platforms optimize for emotional diversity?      │
+│  • Are we okay with algorithms shaping our emotions?       │
+│  • What are we losing when all music feels the same?       │
 │                                                            │
-│     [Share This Story]    [Take the Challenge]            │
+│     [Share This Story]    [Take the Challenge]             │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -314,27 +314,27 @@ All wireframes include:
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  HEADER: About This Analysis                              │
+│  HEADER: About This Analysis                               │
 │────────────────────────────────────────────────────────────│
 │                                                            │
-│  ┌──────────────────────────────────────────────────┐     │
-│  │  DATA SOURCES:                                    │     │
-│  │  • Spotify Audio Features API                    │     │
-│  │  • Number of songs analyzed                       │     │
-│  │  • Time period: 1980-2024                        │     │
-│  │  • 6 languages, 15+ genres                       │     │
-│  │                                                    │     │
-│  │  METHODOLOGY:                                     │     │
-│  │  • Valence & energy variance calculations        │     │
-│  │  • Statistical significance testing              │     │
-│  │  • Genre and language stratification             │     │
-│  │                                                    │     │
-│  │  [Link to raw data]  [Link to code]              │     │
-│  └──────────────────────────────────────────────────┘     │
+│  ┌──────────────────────────────────────────────────┐      │
+│  │  DATA SOURCES:                                   │      │
+│  │  • Spotify Audio Features API                    │      │
+│  │  • Number of songs analyzed                      │      │
+│  │  • Time period: 1980-2024                        │      │
+│  │  • 6 languages, 15+ genres                       │      │
+│  │                                                  │      │
+│  │  METHODOLOGY:                                    │      │
+│  │  • Valence & energy variance calculations        │      │
+│  │  • Statistical significance testing              │      │
+│  │  • Genre and language stratification             │      │
+│  │                                                  │      │
+│  │  [Link to raw data]  [Link to code]              │      │
+│  └──────────────────────────────────────────────────┘      │
 │                                                            │
-│  Author: [My Name ]                                      │
-│  Course: Telling Stories with Data                        │
-│  Date: November 2025                                      │
+│  Author: [My Name ]                                        │
+│  Course: Telling Stories with Data                         │
+│  Date: November 2025                                       │
 └────────────────────────────────────────────────────────────┘
 ```
 
