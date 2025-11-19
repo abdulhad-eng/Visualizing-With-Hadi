@@ -373,58 +373,55 @@ Start → Hook (20.7 hours)
 5. **Color coding**: Red for decline, gray for current state, blue for past
 
 
-# User research 
+## User Research
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+### Target Audience
 
-Text here!
+**Who I want to reach:** Young adults (20-35) who stream music regularly on Spotify, Apple Music, or YouTube Music. These are people who listen to 10+ hours per week and use algorithmic playlists like Discover Weekly.
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+**My approach to finding interviewees:** I asked a friend, friend of friend to avoid bias, and specifically sought one person who listens to non-English music to test the global angle.
 
-Text here!
+### Interview Script
+
+**Research Goals:**
+1. Test if my story makes sense
+2. See which visualizations work best
+3. Find out what's confusing
+4. Learn if people care about this topic
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Test story clarity | "What is the main point of this story?" / "What did you learn?" |
+| Test visualizations | "Which chart was most clear?" / "What was confusing?" |
+| Test relevance | "Does this relate to your music listening?" / "Have you noticed this?" |
+| Test impact | "Does this change how you think about music?" / "Would you share this?" |
 
+### Interview Findings
 
-Text here!
+| Questions | Interview 1 (Female, 23, heavy Spotify user) | Interview 2 (Male, 28, casual listener) | Interview 3 (Female, 17, K-pop fan) |
+|-----------|---------------------------------------------|------------------------------------------|-------------------------------------|
+| **What's the main point?** | "Algorithms are making all music sound emotionally similar" | "Music is getting less diverse over time" | "Global music is converging to western pop standards" |
+| **Most clear visualization?** | "The before/after distribution - shocking difference" | "The line chart showing decline was clearest" | "Language comparison proved it's not just English music" |
+| **Most confusing part?** | "What is valence? Needed explanation" | "The genre boxes were a bit confusing" | "Feedback loop diagram was complex" |
+| **Personal relevance?** | "YES! My Discover Weekly is the same now" | "Haven't really noticed this myself" | "Explains why K-pop sounds more western now" |
+| **Would you share?** | "Definitely with my music friends"            | "Maybe"                 | "Yes"                        |
+| **What's missing?** | "I want to hear example songs" | "The role of autotune in this?" | "More about which artists avoid this trend" |
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+### Identified Changes for Part III
 
-Text here!
+| Research Synthesis | Anticipated Changes for Part III |
+|--------------------|-----------------------------------|
+| Everyone confused by "valence" | Add simple definition with examples: "Valence = happy vs sad, like 'Happy' by Pharrell vs 'Mad World'" |
+| Before/after viz most impactful | Make this visualization bigger and central to the story |
+| People want song examples | Include Spotify playlist links showing emotional extremes |
+| Casual listeners don't see relevance | Add section: "Why this affects YOUR playlists" |
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+**Key Insights:**
 
+- Heavy music users immediately related; casual users needed convincing  
+- The global/language angle was polarizing (loved or found distracting)
+- Everyone wanted concrete song examples to understand "high" vs "low" valence
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
