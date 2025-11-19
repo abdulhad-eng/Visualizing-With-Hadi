@@ -423,11 +423,19 @@ Start → Hook (20.7 hours)
 - Everyone wanted concrete song examples to understand "high" vs "low" valence
 
 
-Text here!
-
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+- IFPI. (2023). *Engaging with music: Global report 2023.* International Federation of the Phonographic Industry. https://www.ifpi.org/ifpis-global-study-finds-were-listening-to-more-music-in-more-ways-than-ever  
+- Vijayaraj, G. (n.d.). *Spotify tracks dataset (updated every week).* Kaggle. https://www.kaggle.com/datasets/gauthamvijayaraj/spotify-tracks-dataset-updated-every-week
+- 
+## AI Acknowledgements
+
+AI was used to:
+- Help format ASCII wireframes for clarity
+- Generate sample interview questions and format responses
+- Edit narrative text for conciseness
+- Suggest visualization types for data
+
+All analysis, story conception, and design decisions are my original work.
+
 
