@@ -1,4 +1,4 @@
-| [home page](https://abdulhad-eng.github.io/Visualizing-With-Hadi/) | [data viz examples](dataviz-examples.md) | [critique-by-design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://abdulhad-eng.github.io/Visualizing-With-Hadi/) | [data viz examples](https://abdulhad-eng.github.io/Visualizing-With-Hadi/dataviz-examples) | [critique by design](https://abdulhad-eng.github.io/Visualizing-With-Hadi/critique-by-design) | [final project I](https://abdulhad-eng.github.io/Visualizing-With-Hadi/final-project-part-one) | [final project II](https://abdulhad-eng.github.io/Visualizing-With-Hadi/final-project-part-two) | [final project III](https://abdulhad-eng.github.io/Visualizing-With-Hadi/final-project-part-three) |
 
 # Redesigning India’s Coal Production Visualization for Clarity and Comparative Insight
 
