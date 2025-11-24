@@ -39,8 +39,18 @@ No additional references were used in this Part III write-up.
 ## AI acknowledgements
 I used AI tools (ChatGPT) within course guidelines to support specific parts of the project — including refining narrative structure, debugging code, generating design alternatives, and improving readability. All analysis decisions, interpretations, and final edits were made by me.
 
+**GitHub Repository Link**  
+https://abdulhad-eng.github.io/Visualizing-With-Hadi/
+
+**Notes on Linking Parts I and II**  
+All components of the project (Part I, Part II, and Part III) are fully linked through the navigation bar at the top of each page.
+
 # Final thoughts
 This project pushed me to combine data, storytelling, design, and cultural insight in a single narrative. It required balancing analytical accuracy with emotional clarity, and I learned how important sequencing and pacing are when telling a data-driven story.
 If I had more time, I would explore lyrical sentiment and additional audio features such as tempo or key signature to deepen the cultural perspective. What I enjoyed most was discovering how differently languages express emotion through music — and how modern platforms shape those expressions in subtle ways.
+
+
+
+
 
 
