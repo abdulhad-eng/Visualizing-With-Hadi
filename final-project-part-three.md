@@ -1,6 +1,7 @@
 | [home page](https://abdulhad-eng.github.io/Visualizing-With-Hadi/) | [data viz examples](https://abdulhad-eng.github.io/Visualizing-With-Hadi/dataviz-examples) | [critique by design](https://abdulhad-eng.github.io/Visualizing-With-Hadi/critique-by-design) | [final project I](https://abdulhad-eng.github.io/Visualizing-With-Hadi/final-project-part-one) | [final project II](https://abdulhad-eng.github.io/Visualizing-With-Hadi/final-project-part-two) | [final project III](https://abdulhad-eng.github.io/Visualizing-With-Hadi/final-project-part-three) |
 
-# The final data story
+# The final data story  
+**This Shorthand story is the final, publicly accessible version of my data narrative:**  
 https://preview.shorthand.com/DhJjJXdjBpeBzNAI
 
 # Changes made since Part II
@@ -20,6 +21,10 @@ I used a unified visual approach inspired by Spotify’s style — a combination
 
 I avoided cluttered or overly complex visuals. Instead, I chose layouts that prioritize clarity: clearly ordered bars, intuitive color meanings, and generous spacing around charts. Each visual was designed to stand alone but also connect smoothly with the narrative around it.
 In Shorthand, I used a rhythm of **image → insight → explanation** to keep the reader engaged. The pacing moves gradually from global trends to cultural differences and finishes with a philosophical contrast. Overall, the design direction focused on making data emotionally resonant and visually accessible.
+
+# References
+All source references are included directly in the Shorthand story under the **"Sources & References"** section.  
+No additional references were used in this Part III write-up.
 
 ## AI acknowledgements
 I used AI tools (ChatGPT) within course guidelines to support specific parts of the project — including refining narrative structure, debugging code, generating design alternatives, and improving readability. All analysis decisions, interpretations, and final edits were made by me.
