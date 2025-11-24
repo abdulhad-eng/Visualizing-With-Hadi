@@ -5,11 +5,18 @@
 https://preview.shorthand.com/DhJjJXdjBpeBzNAI
 
 # Changes made since Part II
-Since Part II, I refined the narrative to focus more clearly on the emotional evolution of global music. I removed weaker subplots, reorganized the structure, and built a smoother, chapter-based flow for the final story. I also reworked several visuals to make them more consistent with the final aesthetic direction and easier for the audience to interpret.
+# Changes made since Part II
 
-A key change was tightening the story into four strong insights: emotional narrowing over time, the rise of emotionally neutral music, cross-language differences, and the happiness–music paradox. This restructuring made the message more focused and more meaningful for readers. I also adjusted the explanatory text to be more accessible and to avoid unnecessary technical detail.
+After completing Part II, I refined the narrative to make the final story clearer and more focused. Several elements from Part II were simplified or removed, including some early sketches, extra genre deep-dives, and the playlist challenge. These changes helped streamline the pacing and avoid visual overload in Shorthand.
 
-Finally, I unified the overall look by adopting a clean, modern aesthetic inspired by Spotify’s design language. This allowed all visuals and sections to feel connected, creating a smoother storytelling experience.
+The final story now revolves around four core insights:  
+1) emotional narrowing over time,  
+2) the rise of emotionally neutral music,  
+3) cross-language differences, and  
+4) the happiness–music paradox.  
+
+This restructuring made the message more cohesive and easier for readers to follow. I also redesigned visuals to create a consistent aesthetic and rewrote several text sections to improve clarity and accessibility. The final version uses a simpler hierarchy: image → insight → explanation, which reads more smoothly than the more complex structure in Part II.
+
 
 ## The audience
 I built this story for people who are curious about how music reflects cultural identity — especially students of music, culture, media studies, and global behavioral trends. During informal conversations, I noticed that these audiences were the ones most surprised by cross-language emotional patterns and the idea that algorithms might be shaping global listening habits.
