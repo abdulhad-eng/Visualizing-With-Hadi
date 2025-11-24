@@ -4,10 +4,12 @@
 **This Shorthand story is the final, publicly accessible version of my data narrative:**  
 https://preview.shorthand.com/DhJjJXdjBpeBzNAI
 
-# Changes made since Part II
+
 # Changes made since Part II
 
 After completing Part II, I refined the narrative to make the final story clearer and more focused. Several elements from Part II were simplified or removed, including some early sketches, extra genre deep-dives, and the playlist challenge. These changes helped streamline the pacing and avoid visual overload in Shorthand.
+
+One important change was adding a clear explanation of **valence** early in the story, since user feedback showed that people did not understand the term. I introduced it in simple language (“valence = how happy or sad a song sounds”) to ensure readers could follow the emotional analysis without confusion.
 
 The final story now revolves around four core insights:  
 1) emotional narrowing over time,  
@@ -16,6 +18,7 @@ The final story now revolves around four core insights:
 4) the happiness–music paradox.  
 
 This restructuring made the message more cohesive and easier for readers to follow. I also redesigned visuals to create a consistent aesthetic and rewrote several text sections to improve clarity and accessibility. The final version uses a simpler hierarchy: image → insight → explanation, which reads more smoothly than the more complex structure in Part II.
+
 
 
 ## The audience
