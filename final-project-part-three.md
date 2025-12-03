@@ -2,7 +2,7 @@
 
 # The final data story  
 **This Shorthand story is the final, publicly accessible version of my data narrative:**  
-https://preview.shorthand.com/DhJjJXdjBpeBzNAI
+[https://preview.shorthand.com/DhJjJXdjBpeBzNAI](https://preview.shorthand.com/DhJjJXdjBpeBzNAI)
 
 
 # Changes made since Part II
