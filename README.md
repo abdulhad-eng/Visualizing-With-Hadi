@@ -60,13 +60,11 @@ To tell a meaningful story using data visualization methods that communicate cle
 - [Part III](final-project-part-three)
 
 ---
-
+### Keeping this picture here because I find it really cute and this is my world.
 ![funny dog picture](funny-dog-unsplash.jpg)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
 
 ## References
 All references for my final project are listed directly in my project parts (Sources & References section). No additional references were used specifically for this README.
